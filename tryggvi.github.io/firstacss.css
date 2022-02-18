@@ -1,0 +1,28 @@
+h1{
+color:blue;
+
+}
+h2{
+color:red;
+
+}
+em{
+color:blue;
+
+}
+a{
+color:green;
+
+}
+.red { color: #ff0000; }
+
+.green { color: #00ff00; }
+.blue { color: #0000ff; }
+
+.link:hover { color: #00ff00; }
+.link:hover { color: #ff0000; }
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
